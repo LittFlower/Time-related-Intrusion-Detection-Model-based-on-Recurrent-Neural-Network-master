@@ -1,0 +1,16 @@
+Trainset Confusion Matrix
+[[ 43608  12393]
+ [  2393 113638]]
+Testset Confusion Matrix
+[[21965 14623]
+ [  206 45126]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.99      0.60      0.75     36588
+           1       0.76      1.00      0.86     45332
+
+    accuracy                           0.82     81920
+   macro avg       0.87      0.80      0.80     81920
+weighted avg       0.86      0.82      0.81     81920
+
